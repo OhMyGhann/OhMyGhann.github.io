@@ -3,7 +3,7 @@
   <img src="<https://telegra.ph/file/76304d5b7a51cf7aafc6f.jpg>" alt="Logo Portofolio">
 </p>
 
-# Portofolio <Nama Anda>
+# Portofolio Nama Anda
 
 Selamat datang di portofolio saya! Saya <Nama Anda>, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
 
@@ -15,12 +15,12 @@ Selamat datang di portofolio saya! Saya <Nama Anda>, seorang <Pekerjaan Anda> de
 
 Berikut beberapa proyek yang telah saya kerjakan dan yang saat ini sedang dikerjakan:
 
-1. **<Nama Proyek 1>**
+1. **Nama Proyek 1**
    - Deskripsi: <Deskripsi singkat tentang proyek ini>
    - Teknologi yang Digunakan: <Teknologi apa saja yang digunakan>
    - Tautan: <Jika proyek ini dapat diakses secara online, sertakan tautan di sini>
 
-2. **<Nama Proyek 2>**
+2. **Nama Proyek 2**
    - Deskripsi: <Deskripsi singkat tentang proyek ini>
    - Teknologi yang Digunakan: <Teknologi apa saja yang digunakan>
    - Tautan: <Jika proyek ini dapat diakses secara online, sertakan tautan di sini>
@@ -29,7 +29,7 @@ Berikut beberapa proyek yang telah saya kerjakan dan yang saat ini sedang dikerj
 
 Saya juga menulis artikel dan tulisan tentang hal-hal yang saya pelajari atau temui selama bekerja di bidang <Bidang Spesialisasi Anda>. Berikut adalah beberapa di antaranya:
 
-1. **<Judul Artikel 1>**
+1. **<Judul Artikel 1**
    - Deskripsi: <Deskripsi singkat tentang artikel ini>
    - Tautan: <Tautan ke artikel di blog atau platform lainnya>
 
