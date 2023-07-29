@@ -5,7 +5,7 @@
 
 # Portofolio Abdul Ghani
 
-Selamat datang di portofolio saya! Saya Abdul Ghani, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
+Selamat datang di portofolio saya! Saya Abdul Ghani, seorang Programmer JavaScript.
 
 ## Tentang Saya
 
