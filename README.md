@@ -3,13 +3,13 @@
   <img src="https://telegra.ph/file/76304d5b7a51cf7aafc6f.jpg" alt="Logo Portofolio">
 </p>
 
-# Portofolio Nama Anda
+# Portofolio Abdul Ghani
 
-Selamat datang di portofolio saya! Saya <Abdul Ghani>, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
+Selamat datang di portofolio saya! Saya Abdul Ghani, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
 
 ## Tentang Saya
 
-<Ceritakan tentang diri Anda secara singkat, misalnya latar belakang pendidikan dan pengalaman pekerjaan Anda.>
+Saya adalah seorang profesional dengan latar belakang pendidikan di <Bidang Pendidikan Anda>. Saya memiliki pengalaman kerja di <Pengalaman Kerja Anda> dan antusias dalam mengeksplorasi teknologi terbaru di bidang <Bidang Spesialisasi Anda>. Saya percaya bahwa teknologi dapat mengubah dunia menjadi tempat yang lebih baik, dan saya berkomitmen untuk memberikan dampak positif melalui karya saya.
 
 ## Proyek Terkini
 
@@ -29,7 +29,7 @@ Berikut beberapa proyek yang telah saya kerjakan dan yang saat ini sedang dikerj
 
 Saya juga menulis artikel dan tulisan tentang hal-hal yang saya pelajari atau temui selama bekerja di bidang <Bidang Spesialisasi Anda>. Berikut adalah beberapa di antaranya:
 
-1. **<Judul Artikel 1**
+1. **<Judul Artikel 1>**
    - Deskripsi: <Deskripsi singkat tentang artikel ini>
    - Tautan: <Tautan ke artikel di blog atau platform lainnya>
 
