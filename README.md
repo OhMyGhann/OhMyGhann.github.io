@@ -1,6 +1,6 @@
 <!-- Letakkan di bagian atas untuk mengaktifkan warna GitHub -->
 <p align="center">
-  <img src="<https://www.androidkom.com/2023/07/pp-luffy-gear-5-viral-di-tiktok-berikut.html>" alt="Logo Portofolio">
+  <img src="<https://telegra.ph/file/76304d5b7a51cf7aafc6f.jpg>" alt="Logo Portofolio">
 </p>
 
 # Portofolio <Nama Anda>
