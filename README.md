@@ -41,7 +41,7 @@ Saya juga menulis artikel dan tulisan tentang hal-hal yang saya pelajari atau te
 
 Jika Anda tertarik berkolaborasi atau berbicara lebih lanjut tentang proyek, jangan ragu untuk menghubungi saya melalui:
 
-- Email: <Alamat email Anda>
+- Email: <mynameisghani610@gmail.com>
 - LinkedIn: [LinkedIn](<https://www.linkedin.com/in/abdul-ghani-5853a2257/>)
 - Portofolio Online: [Portofolio](<Tautan ke situs portofolio online Anda>)
 
