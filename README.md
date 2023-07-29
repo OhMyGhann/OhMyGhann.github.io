@@ -5,7 +5,7 @@
 
 # Portofolio Nama Anda
 
-Selamat datang di portofolio saya! Saya <Nama Anda>, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
+Selamat datang di portofolio saya! Saya <Abdul Ghani>, seorang <Pekerjaan Anda> dengan minat di <Bidang Spesialisasi Anda>.
 
 ## Tentang Saya
 
