@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* img {
+width: 200px;
+height: 200px;
+} */
+
+html {
+  background-color: #111010;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 46rem;
+  margin: 3rem auto;
+  font-family: "Noto Sans JP", serif;
+  padding: 1rem;
+}
+
+.navbar {
+  margin-bottom: 3rem; 
+}
+
+.nav-item{
+  margin-right: 1rem;
+}
+
+.header {
+  margin: 2rem 0;
+  font-size: 1.rem;
+}
+
+.text-pink {
+  color: #ffd4e0;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-secondary {
+  color: #929292;
+}
+
+.article {
+  line-height: 2rem;
+  margin-bottom: 2rem;
+  color: #ccc;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.image {
+  width: 14rem;
+  height: 18rem;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.image-works {
+  width: 14rem;
+  height: 14rem;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.album-card {
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .image{
+    width: 7rem;
+    height: 9rem;
+  }
+}
