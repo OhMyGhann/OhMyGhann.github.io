@@ -49,5 +49,5 @@ Terima kasih telah mengunjungi portofolio saya!
 
 <!-- Letakkan di bagian bawah untuk menunjukkan jumlah tampilan dan kontributor terakhir -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<NAMA_GITHUB>" alt="Jumlah Tampilan Profil" />
+  <img src="https://komarev.com/ghpvc/?username=<OhMyGhann>" alt="Jumlah Tampilan Profil" />
 </p>
